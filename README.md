@@ -77,4 +77,7 @@ NOTE : Don't forget to run redis client and mongoDB on seperate host.
 
 ##
 
+In total you will have to run 5 servers which will look like below-mentioned image.
+
+![alt tag](https://github.com/divyanshu-rawat/playing-with-redis-mongo-node.js/blob/master/snaps/Screen%20Shot%202017-09-22%20at%209.17.04%20PM.png)
 
